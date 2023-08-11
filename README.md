@@ -4,10 +4,10 @@ búsqueda de la realización eficiente y eficaz de las tareas y/o metas asignada
 cambios con el propósito de dar solución a los problemas que puedan surgir. </h3>
 
 
-## Connect with me:
+## Conectate conmigo:
 <p align="center">Correo: marinmolinao@gmail.com</p>
 
-## Languages and Tools:
+## Conocimientos:
 
 <h3 align="left">FrontEnd</h3>
 
