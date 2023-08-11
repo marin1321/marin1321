@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Oscar Marin Molina</h1>
+## Hi 👋, I'm Oscar Marin Molina
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
   Correo: marinmolinao@gmail.com
 </p>
