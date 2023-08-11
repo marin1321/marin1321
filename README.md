@@ -1,5 +1,5 @@
-## Hi 👋, I'm Oscar Marin Molina
-<h3 align="center">A passionate backend developer from Colombia</h3>
+## Hola! 👋, Yo soy Oscar Marin Molina
+<h3 align="center">Mi pasion es ser desarrollador BackEnd de colombia</h3>
 
 ## Connect with me:
 <p align="left">
