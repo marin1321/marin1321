@@ -3,6 +3,7 @@
 búsqueda de la realización eficiente y eficaz de las tareas y/o metas asignadas, capaz de adaptarme a los 
 cambios con el propósito de dar solución a los problemas que puedan surgir. </h3>
 
+
 ## Connect with me:
 <p align="center">Correo: marinmolinao@gmail.com</p>
 
