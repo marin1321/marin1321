@@ -2,9 +2,7 @@
 <h3 align="center">Mi pasion es ser desarrollador BackEnd de colombia</h3>
 
 ## Connect with me:
-<p align="center">
-  Correo: marinmolinao@gmail.com
-</p>
+<p align="center">Correo: marinmolinao@gmail.com</p>
 
 ## Languages and Tools:
 
