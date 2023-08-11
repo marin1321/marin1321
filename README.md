@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 ## Connect with me:
-<p style="margin-left: 30px;">
+<p align="left">
   Correo: marinmolinao@gmail.com
 </p>
 
