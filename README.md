@@ -1,10 +1,10 @@
 ## Hola! 👋, Yo soy Oscar Marin Molina
 <h3 align="center">i'm a systems analysis and development technologist with over 1 years of experience,i have knowledge in Java, Python, Javascript and SQL. i also have worked with Databases like MySql, sqlite and postgreSQL, I also have knowledge of Agile Methodologies such as SCRUM (Certificate), At the moment I am learning mobile development using Kotlin.</h3>
 
-## Conectate conmigo:
-<p align="center">Correo: marinmolinao@gmail.com</p>
+## connect with me:
+<p align="center">Email: marinmolinao@gmail.com</p>
 
-## Conocimientos:
+## Knowledge:
 
 <h3 align="left">FrontEnd</h3>
 
@@ -30,7 +30,7 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Frameworks o Librerias</h3>
+<h3 align="left">Frameworks o libraries</h3>
 
 <p margin="10px">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -38,7 +38,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Herramientas</h3>
+<h3 align="left">Tools</h3>
 
 <p margin="10px">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
