@@ -1,7 +1,5 @@
 ## Hola! 👋, Yo soy Oscar Marin Molina
-<h3 align="center">Soy una persona honesta, comprometida con el trabajo, que sabe trabajar en equipo y está en constante 
-búsqueda de la realización eficiente y eficaz de las tareas y/o metas asignadas, capaz de adaptarme a los 
-cambios con el propósito de dar solución a los problemas que puedan surgir. </h3>
+<h3 align="center">i'm a systems analysis and development technologist with over 1 years of experience,i have knowledge in Java, Python, Javascript and SQL. i also have worked with Databases like MySql, sqlite and postgreSQL, I also have knowledge of Agile Methodologies such as SCRUM (Certificate), At the moment I am learning mobile development using Kotlin.</h3>
 
 
 ## Conectate conmigo:
