@@ -1,4 +1,4 @@
-## Hola! 👋, Yo soy Oscar Marin Molina
+## Hello! 👋, I am Oscar Marin Molina
 <h3 align="center">i'm a systems analysis and development technologist with over 1 years of experience,i have knowledge in Java, Python, Javascript and SQL. i also have worked with Databases like MySql, sqlite and postgreSQL, I also have knowledge of Agile Methodologies such as SCRUM (Certificate), At the moment I am learning mobile development using Kotlin.</h3>
 
 ## connect with me:
