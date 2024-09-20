@@ -1,8 +1,9 @@
 ## Hello! 👋, I am Oscar Marin Molina
-<h3 align="center">i'm a systems analysis and development technologist with over 1 years of experience,i have knowledge in Java, Python, Javascript and SQL. i also have worked with Databases like MySql, sqlite and postgreSQL, I also have knowledge of Agile Methodologies such as SCRUM (Certificate), At the moment I am learning mobile development using Kotlin.</h3>
+<h3 align="center">I am a 20-year-old young man with training in software development and currently studying engineering. systems. I stand out for my honesty, commitment and ability to work as a team. I always look for the efficiency and effectiveness in my tasks, and I quickly adapt to changes to solve problems. my goal is to apply my technical skills in a challenging environment, contributing to the success of the team and continuing my professional development.</h3>
 
 ## connect with me:
 <p align="center">Email: marinmolinao@gmail.com</p>
+<p align="center">LinkedLn: www.linkedin.com/in/oscar-humberto-marín-molina-762864208</p>
 
 ## Knowledge:
 
