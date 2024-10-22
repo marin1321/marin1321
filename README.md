@@ -1,10 +1,6 @@
 ## 👋 Hola! Soy Oscar Humberto Marín Molina
 <h3 align="center">Soy un desarrollador Full Stack con experiencia construyendo aplicaciones web usando una variedad de tecnologías modernas. Me apasiona resolver problemas complejos y crear interfaces de usuario amigables y eficientes.</h3>
 
-## connect with me:
-<p align="center">Email: marinmolinao@gmail.com</p>
-<p align="center">LinkedLn: www.linkedin.com/in/oscar-humberto-marín-molina-762864208</p>
-
 ## Knowledge:
 
 <h3 align="left">FrontEnd</h3>
@@ -39,7 +35,11 @@
 <h3 align="left">Tools</h3>
 
 <p margin="10px">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
+
+## connect with me:
+<p align="center">Email: marinmolinao@gmail.com</p>
+<p align="center">LinkedLn: www.linkedin.com/in/oscar-humberto-marín-molina-762864208</p>
