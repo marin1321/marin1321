@@ -1,5 +1,5 @@
-## Hello! 👋, I am Oscar Marin Molina
-<h3 align="center">I am a 20-year-old young man with training in software development and currently studying engineering. systems. I stand out for my honesty, commitment and ability to work as a team. I always look for the efficiency and effectiveness in my tasks, and I quickly adapt to changes to solve problems. my goal is to apply my technical skills in a challenging environment, contributing to the success of the team and continuing my professional development.</h3>
+## 👋 Hola! Soy Oscar Humberto Marín Molina
+<h3 align="center">Soy un desarrollador Full Stack con experiencia construyendo aplicaciones web usando una variedad de tecnologías modernas. Me apasiona resolver problemas complejos y crear interfaces de usuario amigables y eficientes.</h3>
 
 ## connect with me:
 <p align="center">Email: marinmolinao@gmail.com</p>
