@@ -46,7 +46,7 @@
   <li><p><a href="https://github.com/marin1321/Tasks-ReactNative-Node">Tasks-ReactNative-Node:</a>
   Aplicación móvil de gestión de tareas, desarrollada con React Native para el frontend y Node.js en el backend. Permite a los usuarios crear, editar y eliminar tareas, con almacenamiento en una base de datos Mysql. Incluye autenticación y manejo de usuarios.</p></li>
   <li><p><a href="https://github.com/marin1321/Elegance-Django">Elegance-Django:</a>
-  Plataforma de e-commerce creada con Django y PostgreSQL. Ofrece una experiencia completa de compra en línea, con soporte para múltiples roles de usuario (cliente, administrador). Incluye funcionalidades de carrito de compras, pagos y administración de productos.</p></li>
+  Plataforma de e-commerce creada con Django y Sqlite. Ofrece una experiencia completa de compra en línea, con soporte para múltiples roles de usuario (cliente, administrador). Incluye funcionalidades de carrito de compras, pagos y administración de productos.</p></li>
   <li><p><a href="https://github.com/marin1321/marin1321-Rick-And-Morty-React">Rick-And-Morty-React:</a>
   Aplicación frontend interactiva que consume la API pública de Rick & Morty. Desarrollada con React, muestra personajes, episodios y ubicaciones de la serie. Implementa filtros y paginación para mejorar la experiencia del usuario.</p></li>
 </ol>
