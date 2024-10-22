@@ -43,9 +43,8 @@
 ## Proyectos Destacados:
 
 <li>
-  <ul>
-    Tasks-ReactNative-Node:
-Aplicación móvil de gestión de tareas, desarrollada con React Native para el frontend y Node.js en el backend. Permite a los usuarios crear, editar y eliminar tareas, con almacenamiento en una base de datos Mysql. Incluye autenticación y manejo de usuarios.
+  <ul><p><a href="https://github.com/marin1321/Tasks-ReactNative-Node">Tasks-ReactNative-Node:</a>
+Aplicación móvil de gestión de tareas, desarrollada con React Native para el frontend y Node.js en el backend. Permite a los usuarios crear, editar y eliminar tareas, con almacenamiento en una base de datos Mysql. Incluye autenticación y manejo de usuarios.</p>
   </ul>
 </li>
 
