@@ -40,6 +40,15 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
+## Proyectos Destacados:
+
+<li>
+  <ul>
+    Tasks-ReactNative-Node:
+Aplicación móvil de gestión de tareas, desarrollada con React Native para el frontend y Node.js en el backend. Permite a los usuarios crear, editar y eliminar tareas, con almacenamiento en una base de datos Mysql. Incluye autenticación y manejo de usuarios.
+  </ul>
+</li>
+
 ## Contactame:
 <p align="center">Email: marinmolinao@gmail.com</p>
 <p align="center">LinkedLn: www.linkedin.com/in/oscar-humberto-marín-molina-762864208</p>
