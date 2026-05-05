@@ -1,56 +1,50 @@
-## 👋 Hola! Soy Oscar Humberto Marín Molina
-<h3 align="center">Soy un desarrollador Full Stack con experiencia construyendo aplicaciones web usando una variedad de tecnologías modernas. Me apasiona resolver problemas complejos y crear interfaces de usuario amigables y eficientes.</h3>
+# Hi, I'm Oscar Marín 👋
 
-## Tecnologías que uso:
+Full Stack Engineer based in Colombia. I build production systems end-to-end — backend services, cloud infrastructure, AI agents, and the integrations that connect them. Currently at **[DailyBot](https://www.dailybot.com)**, a global SaaS platform for async team communication.
 
-<h3 align="left">FrontEnd</h3>
+---
 
-<p margin="10px">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/></a>  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
+## What I'm working on
 
-<h3 align="left">BackEnd</h3>
+- 🤖 **[mcp-devtools](https://github.com/marin1321/mcp-devtools)** — Published npm package that gives AI agents safe access to the local dev environment via MCP: filesystem, databases, processes and OpenAPI specs. Used by Claude Desktop, Cursor and any MCP-compatible agent.
+- 🔍 **[Pragmara](https://github.com/marin1321/pragmara)** — RAG-as-a-service platform. Upload docs (PDF, Markdown, URLs) and get a streaming API with hybrid retrieval, cross-encoder reranking, and a built-in evaluation framework that scores faithfulness on every query.
 
-<p margin="10px">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node" width="40" height="40"/></a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Node" width="40" height="40"/></a>
-</p>
+---
 
-<h3 align="left">Database</h3>
+## Stack
 
-<p margin="10px">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/></a>
-</p>
+**Languages**
+TypeScript · JavaScript · Python · Liquid
 
-<h3 align="left">Herramientas</h3>
+**Backend**
+Node.js · Django · DRF · Celery · FastAPI
 
-<p margin="10px">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+**Frontend**
+Vue 3 · React · Next.js · Angular
 
-## Proyectos Destacados:
+**Cloud & DevOps**
+AWS Lambda · EC2 · S3 · RDS · DynamoDB · GitHub Actions · Docker · CI/CD
 
-<ol>
-  <li><p><a href="https://github.com/marin1321/Tasks-ReactNative-Node">Tasks-ReactNative-Node:</a>
-  Aplicación móvil de gestión de tareas, desarrollada con React Native para el frontend y Node.js en el backend. Permite a los usuarios crear, editar y eliminar tareas, con almacenamiento en una base de datos Mysql. Incluye autenticación y manejo de usuarios.</p></li>
-  <li><p><a href="https://github.com/marin1321/Elegance-Django">Elegance-Django:</a>
-  Plataforma de e-commerce creada con Django y Sqlite. Ofrece una experiencia completa de compra en línea, con soporte para múltiples roles de usuario (cliente, administrador). Incluye funcionalidades de carrito de compras, pagos y administración de productos.</p></li>
-  <li><p><a href="https://github.com/marin1321/marin1321-Rick-And-Morty-React">Rick-And-Morty-React:</a>
-  Aplicación frontend interactiva que consume la API pública de Rick & Morty. Desarrollada con React, muestra personajes, episodios y ubicaciones de la serie. Implementa filtros y paginación para mejorar la experiencia del usuario.</p></li>
-</ol>
+**AI**
+OpenAI GPT-4o · Anthropic Claude · MCP · LangGraph
 
-## Contactame:
-<p align="center">Email: marinmolinao@gmail.com</p>
-<p align="center">LinkedLn: www.linkedin.com/in/oscar-humberto-marín-molina-762864208</p>
+**Databases**
+PostgreSQL · MySQL · MongoDB · Redis · Qdrant
+
+---
+
+## At DailyBot
+
+Top-15 contributor across 3 core repositories (~1,200+ commits). Work I've shipped in production:
+
+- Async conversational AI agent with tool-calling, MCP integration, and anti-hallucination guards
+- OAuth2 refresh flows, webhook deduplication, and integration resilience for Linear and Jira
+- Native Discord modal V2 components, MS Teams Adaptive Cards, and multi-platform bot features across 6 chat platforms
+- Redis OOM incident fix via explicit TTLs and version-stamp cache invalidation
+- Billing Manager v2 end-to-end across Django backend, Vue 3 frontend, and AWS Lambda bot layer
+
+---
+
+## Links
+
+🌐 [oscarmarindev.com](https://www.oscarmarindev.com) · 💼 [LinkedIn](https://www.linkedin.com/in/oscar-marin-molina) · 📦 [npm](https://www.npmjs.com/~oscarmarin)
